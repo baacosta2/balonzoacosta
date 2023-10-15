@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Your Shopping Site</h1>
+        <h1>Welcome to Brayan's Shop</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>

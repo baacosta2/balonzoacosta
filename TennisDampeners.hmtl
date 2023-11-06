@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tennis Dampeners</title>
+</head>
+<body>
+    <header>
+        <h1>Tennis Dampeners</h1>
+    </header>
+
+    <section id="product-description">
+        <h2>Product Description</h2>
+        <p>
+            Vamos! The Babolat Vamos Rafa dampener is designed to reduce unwanted vibrations and shock on the tennis court. This pack includes two dampeners that fit any racquet. Pair them with a Babolat Pure Aero Rafa for a perfect cosmetic match and enhance your playing experience.
+        </p>
+        <img src="tennis_dampeners_image.jpg" alt="Tennis Dampeners Image">
+    </section>
+
+    <section id="product-features">
+        <h2>Product Features</h2>
+        <ul>
+            <li>Two Babolat Vamos Rafa Vibration Dampeners included</li>
+            <li>Reduces unwanted vibrations and shock</li>
+            <li>Fits any racquet</li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 Tennis Dampeners Inc.
+    </footer>
+</body>
+</html>

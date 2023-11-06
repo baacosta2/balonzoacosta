@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tennis Equipment</title>
+</head>
+<body>
+    <header>
+        <h1>Tennis Equipment</h1>
+    </header>
+
+    <section id="product-description">
+        <h2>Product Description</h2>
+        <p>
+            Elevate your game with our Pro Overgrip, featuring super thin, high-stretch felt for optimal feel on the court. These overgrips are designed to provide excellent performance, even when dirty and well-worn, ensuring you can maintain your competitive edge. Trusted by Wilson touring pros, including the legendary Roger Federer. Each package includes three overgrips.
+        </p>
+        <img src="tennis_overgrips_image.jpg" alt="Tennis Overgrips Image">
+    </section>
+
+    <section id="product-features">
+        <h2>Product Features</h2>
+        <ul>
+            <li>Super thin, high-stretch felt for optimal feel</li>
+            <li>Excellent performance, even when dirty and well-worn</li>
+            <li>Trusted by Wilson touring pros, including Roger Federer</li>
+            <li>Three overgrips per package</li>
+        </ul>
+    </section>
+
+    <section id="product-colors">
+        <h2>Available Colors</h2>
+        <ul>
+            <li>Green</li>
+            <li>Pink/White/Green</li>
+            <li>Orange</li>
+            <li>Pink</li>
+            <li>Silver</li>
+            <li>White</li>
+            <li>Yellow</li>
+            <li>Burn Orange</li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 Tennis Equipment Inc.
+    </footer>
+</body>
+</html>

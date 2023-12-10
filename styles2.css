@@ -13,33 +13,36 @@ body {
 .product-info {
     max-width: 800px;
     padding: 20px;
-    background-color: #ff9900;
+    background-color: #ff6600; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    text-align: center;
+    text-align: left;
 }
 
 h1 {
     font-size: 32px;
     margin-bottom: 20px;
-    color: #fff;
+    color: #fff; 
+    text-align: center;
 }
 
 .description {
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 20px;
-    color: #333;
+    color: #fff; 
+    text-align: left;
 }
 
 .features {
     list-style-type: none;
     padding-left: 0;
+    text-align: left;
 }
 
 .features li {
     margin-bottom: 10px;
-    color: #fff;
-    background-color: #ffcc00;
+    color: #ff6600; 
+    background-color: #fff; 
     padding: 10px;
     border-radius: 5px;
 }

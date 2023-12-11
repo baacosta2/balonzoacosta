@@ -1,52 +1,59 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
     margin: 0;
     padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    background-color: #f9f9f9;
+    color: #333;
 }
 
-.product-info {
-    max-width: 800px;
+header {
+    background-color: #add8e6; /* Baby blue background */
     padding: 20px;
-    background-color: #ff6600; 
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    text-align: left;
-}
-
-h1 {
-    font-size: 32px;
-    margin-bottom: 20px;
-    color: #fff; 
     text-align: center;
 }
 
-.description {
-    font-size: 18px;
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #fff; /* White text */
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 2px solid #add8e6; /* Baby blue border */
+    border-radius: 8px;
+    background-color: #fff; /* White background */
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    color: #333; /* Dark text */
+    background-color: #add8e6; /* Baby blue background */
+    border-bottom: 2px solid #fff; /* White bottom border */
+}
+
+p {
+    font-size: 16px;
     line-height: 1.6;
     margin-bottom: 20px;
-    color: #fff; 
-    text-align: left;
 }
 
-.features {
+ul {
     list-style-type: none;
     padding-left: 0;
-    text-align: left;
 }
 
-.features li {
-    margin-bottom: 10px;
-    color: #ff6600; 
-    background-color: #fff; 
-    padding: 10px;
-    border-radius: 5px;
+ul li {
+    font-size: 16px;
+    margin-bottom: 8px;
 }
 
-.features li strong {
-    font-weight: bold;
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #add8e6; /* Baby blue background */
+    color: #fff; /* White text */
 }
